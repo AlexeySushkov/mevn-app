@@ -1,15 +1,15 @@
 # mevn-app
 
-* Install and run MongoDB:
+1. Install and run MongoDB:
  * ./mongod
 
-* Install and run server from server catalog:
+2. Install and run server from server catalog:
 
  * npm install
  * npm start
  * http://localhost:8081
 
-* Install and run client from server catalog:
+3. Install and run client from server catalog:
 
  * npm install
  * npm run dev
