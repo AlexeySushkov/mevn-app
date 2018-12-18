@@ -1,18 +1,29 @@
 # mevn-app
 
-1. Install and run MongoDB:
- * ./mongod
+> Install and run MongoDB:
 
-2. Install and run server from server catalog:
+``` bash
+./mongod
+```
 
- * npm install
- * npm start
- * http://localhost:8081
+> Install and run server from server catalog:
 
-3. Install and run client from server catalog:
+``` bash
+npm install
+npm start
 
- * npm install
- * npm run dev
- * http://localhost:8080
+# Correct output:
+# Server start on port 8081 ...
+# Connection Succeeded
+```
 
+> Install and run client from server catalog:
+
+``` bash
+npm install
+npm run dev
+
+# Correct output:
+# Your application is running here: http://localhost:8080
+```
 
